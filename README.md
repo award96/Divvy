@@ -1,5 +1,5 @@
 # Divvy User Analysis - Python, R, C
-**Check out the [Technical PowerPoint of Findings](https://docs.google.com/presentation/d/1-OokxZJm1_nvS5piUuCR9WUcB4hG32Avp7ZkAufJPQE/edit?usp=sharing)**
+**Check out the [Technical PowerPoint of Findings](https://docs.google.com/presentation/d/1-OokxZJm1_nvS5piUuCR9WUcB4hG32Avp7ZkAufJPQE/present?slide=id.g1168e3a5120_0_40)**
 
 
 Project Status:
@@ -15,7 +15,7 @@ Divvy is a bike rideshare company in Chicago. It is operated by Lyft in conjunct
 The time length of the ride was chosen as the response variable due to its multiple impacts on the business (see PowerPoint above).
 
 ### Findings
-[Technical PowerPoint of Findings](https://docs.google.com/presentation/d/1-OokxZJm1_nvS5piUuCR9WUcB4hG32Avp7ZkAufJPQE/edit?usp=sharing)
+[Technical PowerPoint of Findings](https://docs.google.com/presentation/d/1-OokxZJm1_nvS5piUuCR9WUcB4hG32Avp7ZkAufJPQE/present?slide=id.g1168e3a5120_0_40)
 
 #### Data
 Each row is an individual ride
